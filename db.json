@@ -1,7 +1,7 @@
 {
 "cars": [{
 			"id": 85,
-			targa": "ax657bx",
+			"targa": "ax657bx",
 			"marca": listaMarche.opel,
 			"modello": "corsa",
 			"dataIngresso": new Date(),
