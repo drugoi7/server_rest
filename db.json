@@ -1,0 +1,18 @@
+{
+"cars": [{
+			"id": 85,
+			targa": "ax657bx",
+			"marca": listaMarche.opel,
+			"modello": "corsa",
+			"dataIngresso": new Date(),
+			"motivoIngresso": "tagliando"
+		},
+		{
+			"id": 98,
+			"targa": "vx647bx",
+			"marca": listaMarche.bmw,
+			"modello": "serie1",
+			"dataIngresso": new Date(),
+			"motivoIngresso": "freni"
+		}]
+}
