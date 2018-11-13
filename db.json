@@ -2,17 +2,17 @@
 "cars": [{
 			"id": 85,
 			"targa": "ax657bx",
-			"marca": listaMarche.opel,
+			"marca": "opel",
 			"modello": "corsa",
-			"dataIngresso": new Date(),
+			"dataIngresso": 1542116461718,
 			"motivoIngresso": "tagliando"
 		},
 		{
 			"id": 98,
 			"targa": "vx647bx",
-			"marca": listaMarche.bmw,
+			"marca": "bmw",
 			"modello": "serie1",
-			"dataIngresso": new Date(),
+			"dataIngresso": 1542116461718,
 			"motivoIngresso": "freni"
 		}]
 }
